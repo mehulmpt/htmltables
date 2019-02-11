@@ -1,0 +1,13 @@
+{
+  "name": "htmltables",
+  "version": "1.0.0",
+  "description": "Allows you to manipulate HTML tables using JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "repository": "https://github.com/mehulmpt/htmltables",
+  "author": "Mehul Mohan",
+  "license": "ISC"
+}
